@@ -2,5 +2,6 @@ a = 20
 b = 50
 
 c = 30
+d = a + b + c
+print(d)
 
-print(a + b + c)
